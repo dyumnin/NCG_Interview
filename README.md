@@ -1,4 +1,4 @@
-# NCG_Interview
+# Dyumnin Semiconductors, Take home coding test for new college graduates.
 Take home coding test.
 
 Instructions:
