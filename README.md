@@ -5,7 +5,7 @@ Instructions:
 ## Step 1:
 1. Clone this repository.
 2. Create a branch with "candidate/<your name> as the branch name.
-3. Create a Xilinx project called ddr4 for part xcvu9p-fsgd2104-2-e
+3. Create a Xilinx project called ddr4 for part  xcku115-flvd1517-1-c
 4. and use the ddr4 generator to generate a DDR4 controller and physical layer IP with AXI4 Interface and 72 bit datawidth
 5. Checkin all the generated files and tag it as Step1
 
