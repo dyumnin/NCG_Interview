@@ -4,9 +4,9 @@ Take home coding test.
 Instructions:
 ## Step 1:
 1. Clone this repository.
-2. Create a branch with "candidate/<your name> as the branch name.
+2. Create a branch with "candidate/{your name} as the branch name.
 3. Create a Xilinx project called ddr4 for part  xcku115-flvd1517-1-c
-4. and use the ddr4 generator to generate a DDR4 controller and physical layer IP with AXI4 Interface and 72 bit datawidth
+4. and use the Xilinx ddr4 MIG generator to generate a DDR4 controller and physical layer IP with AXI4 Interface and 72 bit datawidth
 5. Checkin all the generated files and tag it as Step1
 
 ## Step 2:
@@ -18,6 +18,7 @@ Instructions:
  Write another module which has an interface of (enable, ready, address(in), data(out)) and interfaces to the same DDR logic in Step 1. and returns the data in DDR for the specified address.
 
 Checkin the files and tag it as Step2
+
 ## Step 3:
 Checkin the testplan for the dut containing logic in step1 and step2 and tag it as Step3
 
