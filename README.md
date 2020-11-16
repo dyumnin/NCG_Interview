@@ -1,5 +1,12 @@
 # Dyumnin Semiconductors, Take home coding test for new college graduates.
+
 Take home coding test.
+
+This test mimic's the workflow for an NCG at Dyumnin Semiconductors, The steps below should normally take 1 man day's effort.
+
+**Assumption** 
+1. The candidate know's verilog, Algorithms, Verification(UVM,VUnit,CocoTB etc.), Digital logic and has worked with FPGA's
+
 
 Instructions:
 ## Step 1:
@@ -21,6 +28,7 @@ Checkin the files and tag it as Step2
 
 ## Step 3:
 Checkin the testplan for the dut containing logic in step1 and step2 and tag it as Step3
+Ref: https://verificationacademy.com/cookbook/coverage 
 
 ## Step 4:
 
@@ -29,5 +37,7 @@ If you know python, then you can do the verification using cocotb.
 
 ## Step 5.
 
-Create a pull request on the original repo with your code submission.
+Create a pull request on the original repo with your code submission. Once the pull request is created we will schedule the next round of interview.
 
+
+In case of any issues, raise an issue in the issue tracking system.
