@@ -2,7 +2,7 @@
 
 Take home coding test.
 
-This test mimic's the workflow for an NCG at Dyumnin Semiconductors, The steps below should normally take 1 man day's effort.
+This test mimic's the workflow for an NCG at Dyumnin Semiconductors, The steps below should normally take 1 man day's effort. There are some aspects of tools and techniques which may not be a part of your regular engineering course work and may require some research on your part.
 
 **Assumption** 
 1. The candidate know's verilog, Algorithms, Verification(UVM,VUnit,CocoTB etc.), Digital logic and has worked with FPGA's
