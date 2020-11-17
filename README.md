@@ -28,16 +28,21 @@ Checkin the files and tag it as Step2
 
 ## Step 3:
 Checkin the testplan for the dut containing logic in step1 and step2 and tag it as Step3
-Ref: https://verificationacademy.com/cookbook/coverage 
+
+**Ref:** https://verificationacademy.com/cookbook/coverage 
 
 ## Step 4:
 
 Implement the verification env and write and verify atleast 2 test(should contain a ddr write and read).
 If you know python, then you can do the verification using cocotb.
 
+**Ref:** https://cocotb.readthedocs.io/
+
 ## Step 5.
 
-Create a pull request on the original repo with your code submission. Once the pull request is created we will schedule the next round of interview.
+Create a pull request on the original repo with your code submission.
+
+Once the pull request is created we will schedule the next round of interview.
 
 
 In case of any issues, raise an issue in the issue tracking system.
